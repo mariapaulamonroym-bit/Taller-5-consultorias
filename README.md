@@ -7,13 +7,13 @@ El equipo actúa como consultor contratado por una entidad del Gobierno nacional
 
 Equipo consultor
 
- · [Nombre 1]	Líder del proyecto y enlace con la entidad
+ · Derek Gaona ->	Líder del proyecto y enlace con la entidad
 
  · María Paula Monroy ->	Especialista en datos y reproducibilidad
 
- · [Nombre 3]	Analista cuantitativo
+ · Tannia Matallana ->	Analista cuantitativo
 
- · [Nombre 4]	Especialista en visualización y comunicación
+ · Angélica Díaz	Especialista en visualización y comunicación
 
 
 El análisis se organiza en tres bloques:
